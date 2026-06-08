@@ -1,2 +1,4 @@
-## helm-docs
+# helm-docs
+
+# Why Helm?
 
